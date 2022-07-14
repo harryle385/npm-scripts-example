@@ -1,1 +1,1 @@
-module.exports = 'This text was loaded from the JS file!';
+module.exports = 'Alo alo 123 1234';
